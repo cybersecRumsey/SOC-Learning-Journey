@@ -16,6 +16,9 @@ normal versus suspicious activity.
 - Resolved IP: 13.107.246.40
 - User: SOC Analyst
 
+<img width="400" height="430" alt="image" src="https://github.com/user-attachments/assets/59456e64-a8ef-450b-a742-85ea9b075a4a" />
+
+
 ## What I Figured Out
 The domain azureedge.net is Microsoft Azure CDN 
 infrastructure. Windows Search contacting Microsoft 
