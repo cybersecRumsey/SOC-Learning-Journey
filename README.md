@@ -20,11 +20,13 @@ I am a cybersecurity student at Purdue Global Graduating in November 2026 with a
 - Nessus
 - Nmap
 - VirtualBox
+  
 
 ## Lab Environment
 
 - Windows 10 VM with SwiftOnSecurity Sysmon config installed
 - Hosted on Windows 11 via VirtualBox
+- TryHackMe
 
 ## Certifications
 
